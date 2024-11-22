@@ -1,11 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
 import Chatroom from './Chatroom.jsx';
+import Chatroom2 from './Chatroom2.jsx'
 
 function App() {
   return (
     <div>
-      <Chatroom></Chatroom>
+      <Chatroom2></Chatroom2>
     </div>
   );
 }
